@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "buildId": "201113c51e1bb3a6",
+  "kdf": {
+    "name": "PBKDF2",
+    "hash": "SHA-256",
+    "iterations": 600000,
+    "salt": "xn/ntJyZFfIPMbaGNn2hZA=="
+  },
+  "cipher": "AES-256-GCM",
+  "manifest": {
+    "file": "vault/201113c51e1bb3a6-manifest.enc",
+    "iv": "cZ5VTeegS0hlfP9V"
+  }
+}
